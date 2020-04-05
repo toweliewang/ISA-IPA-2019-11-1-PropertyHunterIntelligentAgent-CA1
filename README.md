@@ -21,11 +21,14 @@ The solution comprises (1) User Fronting Chat-bot, (2) Property Search Agent, (3
 Team Name: A22G  
 Members  : Alfred Tay Wenjie, Wang Zilong, Wong Yoke Keong  
 
-Please refer to Annex D of report for further details.
+---
+## SECTION 4 : VIDEO DEMO
+
+Business Scenario & Use Case
+[![](http://img.youtube.com/vi/w0LNy7N0wsI/0.jpg)](http://www.youtube.com/watch?v=w0LNy7N0wsI "")
 
 ---
-## SECTION 4 : USE CASE VIDEO
 
-You can download the video under the Report Folder.
+## SECTION 5 : REPORT
 
----
+[Report](https://github.com/toweliewang/ISA-IPA-2019-11-1-PropertyHunterIntelligentAgent-CA1/blob/master/Report/CA1%20Report%20-%20Property%20Hunter%20Intelligent%20System%20V1.1.pdf)
