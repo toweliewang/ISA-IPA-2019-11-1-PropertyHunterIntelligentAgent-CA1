@@ -25,10 +25,11 @@ Members  : Alfred Tay Wenjie, Wang Zilong, Wong Yoke Keong
 ## SECTION 4 : VIDEO DEMO
 
 Business Scenario & Use Case
+
 [![](http://img.youtube.com/vi/w0LNy7N0wsI/0.jpg)](http://www.youtube.com/watch?v=w0LNy7N0wsI "")
 
 ---
 
 ## SECTION 5 : REPORT
 
-[Report](https://github.com/toweliewang/ISA-IPA-2019-11-1-PropertyHunterIntelligentAgent-CA1/blob/master/Report/CA1%20Report%20-%20Property%20Hunter%20Intelligent%20System%20V1.1.pdf)
+[CA1 Report - Property Hunter Intelligent System V1.1.pdf](https://github.com/toweliewang/ISA-IPA-2019-11-1-PropertyHunterIntelligentAgent-CA1/blob/master/Report/CA1%20Report%20-%20Property%20Hunter%20Intelligent%20System%20V1.1.pdf)
